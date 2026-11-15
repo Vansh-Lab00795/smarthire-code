@@ -1,0 +1,57 @@
+[
+  {
+    "id": "8ce97eaf-4bd7-4211-b0bb-f05a67699012",
+    "matchId": "528bf961-f77c-41ce-b69e-a755225f92d0",
+    "senderId": "83cd6944-22e8-49ef-b6f1-c495fd674e31",
+    "senderRole": "candidate",
+    "senderName": "Vansh Kumar Jha",
+    "recipientId": "effc179c-4cf3-4827-9abf-9f2366a6cd6b",
+    "content": "Hi ABC Pvt. Ltd., I am thrilled our profiles matched! I am excited to discuss the Web-Developer role.",
+    "created_at": "2026-11-09T05:34:13.072Z",
+    "read": true
+  },
+  {
+    "id": "860eede4-d1eb-484e-9b17-65a95291918c",
+    "matchId": "528bf961-f77c-41ce-b69e-a755225f92d0",
+    "senderId": "effc179c-4cf3-4827-9abf-9f2366a6cd6b",
+    "senderRole": "company",
+    "senderName": "ABC Pvt. Ltd.",
+    "recipientId": "83cd6944-22e8-49ef-b6f1-c495fd674e31",
+    "content": "Welcome Vansh! We were impressed by your React and Node portfolio. Are you free for an intro interview tomorrow at 3 PM?",
+    "created_at": "2026-11-09T05:34:13.092Z",
+    "read": false
+  },
+  {
+    "id": "bd767873-40c5-43cb-9441-6a55ea3ed803",
+    "matchId": "2c4d9695-a6ee-4f43-b3d8-cb04294d5383",
+    "senderId": "371b2021-2fea-4a4d-aa0e-d1ab0c68ff02",
+    "senderRole": "candidate",
+    "senderName": "Nishi Jha",
+    "recipientId": "a6a00277-07f4-4bc0-8d70-20b4ab0f285e",
+    "content": "Hi! Thank you for accepting the match. I'd love to connect regarding this role.",
+    "created_at": "2026-11-09T06:46:04.627Z",
+    "read": true
+  },
+  {
+    "id": "37fe27b3-c33f-4e14-899f-844f4164ff76",
+    "matchId": "2c4d9695-a6ee-4f43-b3d8-cb04294d5383",
+    "senderId": "a6a00277-07f4-4bc0-8d70-20b4ab0f285e",
+    "senderRole": "company",
+    "senderName": "pop12",
+    "recipientId": "371b2021-2fea-4a4d-aa0e-d1ab0c68ff02",
+    "content": "Are you available for a 20-minute chat this week?",
+    "created_at": "2026-11-09T06:47:10.860Z",
+    "read": true
+  },
+  {
+    "id": "2cf02875-7315-4b67-85e7-89c38f4ec975",
+    "matchId": "2c4d9695-a6ee-4f43-b3d8-cb04294d5383",
+    "senderId": "371b2021-2fea-4a4d-aa0e-d1ab0c68ff02",
+    "senderRole": "candidate",
+    "senderName": "Nishi Jha",
+    "recipientId": "a6a00277-07f4-4bc0-8d70-20b4ab0f285e",
+    "content": "not yet ssorry",
+    "created_at": "2026-11-09T06:47:56.531Z",
+    "read": true
+  }
+]

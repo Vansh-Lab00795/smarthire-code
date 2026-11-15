@@ -1,0 +1,160 @@
+[
+  {
+    "id": "5f309317-c1cb-413b-aa59-3718749143a9",
+    "companyUserId": "effc179c-4cf3-4827-9abf-9f2366a6cd6b",
+    "companyId": "63c0b586-2542-4933-baa9-266da6a60e57",
+    "companyName": "ABC Pvt. Ltd.",
+    "title": "Web-Developer",
+    "description": "ABC Pvt. Ltd. is looking for an energetic Web-Developer to maintain and build modern web applications. The role focuses on full stack development with React and Node.js, working alongside agile engineering teams.",
+    "educationReq": "Graduate",
+    "experienceReq": "0–2 Years",
+    "skillsReq": [
+      "Communication",
+      "MS Excel",
+      "Full Stack Developer",
+      "React"
+    ],
+    "location": "Agra",
+    "salaryMin": 40000,
+    "salaryMax": 60000,
+    "jobType": "Full-time",
+    "joiningPeriod": "Within 30 days",
+    "created_at": "2026-11-02T07:36:29.826Z"
+  },
+  {
+    "id": "260bbddc-bf8e-4d0c-89d4-33c87ef4a8cf",
+    "companyUserId": "effc179c-4cf3-4827-9abf-9f2366a6cd6b",
+    "companyId": "63c0b586-2542-4933-baa9-266da6a60e57",
+    "companyName": "ABC Pvt. Ltd.",
+    "title": "Frontend React Specialist",
+    "description": "Lead client-facing dashboard UI development using Tailwind CSS and React component ecosystems.",
+    "educationReq": "B.Tech / Graduate",
+    "experienceReq": "1 Year",
+    "skillsReq": [
+      "React",
+      "Communication",
+      "Full Stack Developer",
+      "CSS"
+    ],
+    "location": "Agra",
+    "salaryMin": 45000,
+    "salaryMax": 65000,
+    "jobType": "Full-time",
+    "joiningPeriod": "Immediate",
+    "created_at": "2026-11-02T07:36:29.826Z"
+  },
+  {
+    "id": "1b4b8ba4-930a-4369-bcce-35790ee57b49",
+    "companyUserId": "31a2dc96-1465-4fe9-a526-ae293a28e427",
+    "companyId": "6a25fbf5-2e32-4be2-8a18-20ebc1341ab1",
+    "companyName": "Nimblux",
+    "title": "HR",
+    "description": "",
+    "educationReq": "UG",
+    "experienceReq": "0–2 Years",
+    "skillsReq": [],
+    "location": "Remote",
+    "salaryMin": 5000,
+    "salaryMax": 10000,
+    "jobType": "Full-time",
+    "joiningPeriod": "Within 30 days",
+    "created_at": "2026-11-02T07:45:02.664Z"
+  },
+  {
+    "id": "f735412a-89ca-4c91-ae3f-c8d4b9d9363b",
+    "companyUserId": "3557791f-b60b-4417-a129-cb7590f142fb",
+    "companyId": "9f3ca7cd-3398-4dc3-a9ad-124ae2235942",
+    "companyName": "QWERTY",
+    "title": "Frontend Developer",
+    "description": "",
+    "educationReq": "Graduate",
+    "experienceReq": "0–2 Years",
+    "skillsReq": [
+      "Frontend , MySQL , Data Scientist"
+    ],
+    "location": "Agra, Delhi",
+    "salaryMin": 25000,
+    "salaryMax": 50000,
+    "jobType": "Full-time",
+    "joiningPeriod": "Within 30 days",
+    "created_at": "2026-11-02T08:46:47.921Z"
+  },
+  {
+    "id": "2d41f357-ee99-4c30-9cee-dcf9248b583c",
+    "companyUserId": "cf7cd059-9afc-4a57-8d80-96638158dc8e",
+    "companyId": "70ad778f-5db3-4656-a218-ea774d2a69f0",
+    "companyName": "asdfsdf",
+    "title": "editor",
+    "description": "editor,reel maker, info provider, current affairs knowledge",
+    "educationReq": "Graduate",
+    "experienceReq": "2-3",
+    "skillsReq": [
+      "excel,data entry,good communication"
+    ],
+    "location": "Agra",
+    "salaryMin": 2000,
+    "salaryMax": 5000,
+    "jobType": "Full-time",
+    "joiningPeriod": "Within 30 days",
+    "created_at": "2026-11-03T14:30:09.287Z"
+  },
+  {
+    "id": "89d645a5-094e-4dcb-a5e7-3b713baf5f49",
+    "companyUserId": "a6a00277-07f4-4bc0-8d70-20b4ab0f285e",
+    "companyId": "60b0e7ed-4adb-4644-acac-968f082adfae",
+    "companyName": "pop12",
+    "title": "web Developer",
+    "description": "",
+    "educationReq": "Graduate",
+    "experienceReq": "0–2 Years",
+    "skillsReq": [
+      "Excel",
+      "web Developer",
+      "good communication"
+    ],
+    "location": "Agra",
+    "salaryMin": 40000,
+    "salaryMax": 60000,
+    "jobType": "Full-time",
+    "joiningPeriod": "Within 30 days",
+    "created_at": "2026-11-09T06:18:29.366Z"
+  },
+  {
+    "id": "44e88589-87eb-4e56-9048-b46700495a67",
+    "companyUserId": "a6a00277-07f4-4bc0-8d70-20b4ab0f285e",
+    "companyId": "60b0e7ed-4adb-4644-acac-968f082adfae",
+    "companyName": "pop12",
+    "title": "web Developer",
+    "description": "",
+    "educationReq": "Graduate",
+    "experienceReq": "0–2 Years",
+    "skillsReq": [
+      "Excel",
+      "web Developer",
+      "good communication"
+    ],
+    "location": "Agra",
+    "salaryMin": 40000,
+    "salaryMax": 60000,
+    "jobType": "Full-time",
+    "joiningPeriod": "Within 30 days",
+    "created_at": "2026-11-09T06:18:30.596Z"
+  },
+  {
+    "id": "5612ad9d-d127-4d0a-8f59-b64ac8df5669",
+    "companyUserId": "e8b40ab1-9341-4ad1-a0ce-b201c458d83d",
+    "companyId": "ac5e4d0e-e1f6-4b4d-b11d-56193957b605",
+    "companyName": "nextra communication",
+    "title": "Java Fullstack Developer",
+    "description": ".....",
+    "educationReq": "Graduate",
+    "experienceReq": "0–2 Years",
+    "skillsReq": [],
+    "location": "New Delhi",
+    "salaryMin": 20000,
+    "salaryMax": 40000,
+    "jobType": "Full-time",
+    "joiningPeriod": "Within 30 days",
+    "created_at": "2026-11-11T15:55:59.888Z"
+  }
+]

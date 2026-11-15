@@ -1,0 +1,32 @@
+{
+  "folders": [
+    {
+      "name": "🌐 01 - HTML (Markup & Templates)",
+      "path": "01_HTML"
+    },
+    {
+      "name": "🎨 02 - CSS & Styling (Tailwind Design System)",
+      "path": "02_CSS_and_Styling"
+    },
+    {
+      "name": "⚙️ 03 - Node.js Backend (Express & REST API)",
+      "path": "03_NodeJS_Backend"
+    },
+    {
+      "name": "⚛️ 04 - React Frontend (Components, 3D Hero & Pages)",
+      "path": "04_React_Frontend"
+    },
+    {
+      "name": "🚀 05 - Full Runnable Project (Production Workspace)",
+      "path": "05_Full_Runnable_Project"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules": false,
+      "**/.git": true
+    },
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on"
+  }
+}
